@@ -467,7 +467,8 @@
               "font-style": "italic"
             },
             "H1": {
-              "color": "#55b4d4"
+              "color": "#55b4d4",
+              "text-align": "left"
             },
             "SPAN": {
               "color": "#149dcc"
