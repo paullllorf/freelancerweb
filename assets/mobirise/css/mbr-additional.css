@@ -1919,89 +1919,27 @@ body {
 .cid-qyN0k91tQU .mbr-section-subtitle I {
   color: #4f4943;
 }
-.cid-qzUnJXhxhY {
-  padding-top: 90px;
+.cid-qAo0leIwfF {
+  padding-top: 105px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-qzUnJXhxhY h2 {
+.cid-qAo0leIwfF .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
   text-align: left;
 }
-.cid-qzUnJXhxhY h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-qzUnJXhxhY p {
-  color: #767676;
+.cid-qAo0leIwfF .mbr-author-name {
+  font-weight: bold;
+  color: #232;
   text-align: left;
 }
-.cid-qzUnJXhxhY .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
+.cid-qAo0leIwfF .mbr-author-desc {
+  color: #232;
 }
-.cid-qzUnJXhxhY .media {
-  margin: initial;
-  align-items: center;
-}
-.cid-qzUnJXhxhY .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-qzUnJXhxhY .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-qzUnJXhxhY .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-qzUnJXhxhY .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-  .cid-qzUnJXhxhY .media-container-row {
-    -webkit-flex-direction: row-reverse;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qzUnJXhxhY .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-    padding-bottom: 0;
-    margin-bottom: 0;
-    padding-top: 1rem;
-    margin-top: 2rem;
-  }
-  .cid-qzUnJXhxhY .media-container-row {
-    -webkit-flex-direction: column-reverse;
-  }
-}
-@media (max-width: 300px) {
-  .cid-qzUnJXhxhY .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-qzUnJXhxhY H2 {
+.cid-qAo0leIwfF .testimonial-text SPAN {
   color: #000000;
-  text-align: left;
-}
-.cid-qzUnJXhxhY .mbr-text {
-  color: #000000;
-  text-align: left;
-}
-.cid-qzUnJXhxhY P {
-  color: #000000;
-  text-align: left;
-}
-.cid-qzUnJXhxhY H4 {
-  text-align: left;
 }
 .cid-qyMIvfbhL3 {
   background-color: #90c7a8;
@@ -2056,11 +1994,14 @@ body {
   text-align: center;
 }
 .cid-qydwWZ4D0O H2 {
-  text-align: center;
-  color: #4f4943;
+  text-align: left;
+  color: #000000;
 }
 .cid-qydwWZ4D0O B {
   color: #4f4943;
+}
+.cid-qydwWZ4D0O LABEL {
+  color: #000000;
 }
 .cid-qzQx1BXPVW {
   padding-top: 75px;
